@@ -1,1 +1,2 @@
 Creating a new file in master branch to test rebase
+More changes in the h.txt file
