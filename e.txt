@@ -1,4 +1,6 @@
 This is the 4th change in the master branch
 
+remote change 1
+remote change 2
 
 Local Change1
